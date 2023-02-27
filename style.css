@@ -1,0 +1,19 @@
+/* - - - - - - - - MI TEMA - - - - - - - - */
+
+:root {
+    --background-color-visualStudioCode: rgb(30, 30, 30);
+}
+
+body{
+    background: var(--background-color-visualStudioCode);
+}
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    color: rgb(227, 227, 227);
+    font-family: sans-serif;
+}
+
+/* - - - - - - - - TUS COSAS - - - - - - - - */
